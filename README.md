@@ -16,12 +16,9 @@
  # 脚本代码
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/V2RaySSR/acme-cf/main/acme.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/HPShark/acme-cf/main/acme.sh)
 ```
 
-```bash
-bash <(curl -Ls https://v2rayssr.com/tool/acme.sh)  # 免富强地址
-```
 
  # 相关文章及视频
 
